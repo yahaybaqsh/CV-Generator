@@ -1,42 +1,34 @@
-# CV-Generator# CV Generator (React Project)
+# منشئ السيرة الذاتية الاحترافية
+![gif](https://github.com/user-attachments/assets/d7915ff7-a56b-44d6-b401-4659f47f385c)
 
-## 📌 Introduction
-This is the first React project in the curriculum.  
-The goal of this project is to create a simple CV/Resume generator where users can input their information, submit it, and see a live preview of their CV.  
+<img width="1546" height="500" alt="لقطة الشاشة 2025-09-26 190647" src="https://github.com/user-attachments/assets/883b3655-8534-4d0d-885b-3ce1dca5114d" />
 
-It covers the core concepts of React:
-- Components
-- Props & State
-- Forms & Input Handling
-- Conditional Rendering
-- Styling with CSS
+تطبيق ويب احترافي لإنشاء السيرة الذاتية (CV) باستخدام React وTailwind CSS. يتيح لك هذا التطبيق إدخال معلوماتك الشخصية، التعليمية، والمهنية، ثم عرضها بتنسيق احترافي جاهز للطباعة أو المشاركة.
 
----
+## المميزات
 
-## 🚀 Features
-- Add **General Information** (Name, Email, Phone).  
-- Add **Educational Experience** (School, Title of Study, Date of Study).  
-- Add **Practical Experience** (Company, Position, Responsibilities, Work Dates).  
-- **Edit & Submit** functionality for each section.  
-- Live display of user data once submitted.  
-- Organized structure with reusable components.  
+✨ **واجهة مستخدم حديثة** - تصميم عصري وأنيق باستخدام Tailwind CSS  
+📝 **نموذج تفاعلي** - أدخل وحرر معلوماتك بسهولة  
+🔄 **وضع التحرير/العرض** - تبديل سلس بين وضع الإدخال ووضع العرض  
+📱 **متجاوب بالكامل** - يعمل بشكل مثالي على جميع الأجهزة  
+🎨 **تصميم احترافي** - ألوان متناسقة وتنسيق نظيف يناسب السير الذاتية  
+⚡ **أداء عالي** - تطبيق خفيف وسريع بدون مكتبات خارجية
 
----
+## المكونات الرئيسية
 
-## 🛠️ Technologies
-- React (via Create React App or Vite)  
-- JavaScript (ES6+)  
-- CSS Modules  
+- **المعلومات الشخصية**: الاسم، البريد الإلكتروني، رقم الهاتف
+- **التعليم**: المؤسسة التعليمية، التخصص، تواريخ الدراسة
+- **الخبرة العملية**: الشركة، المسمى الوظيفي، المسؤوليات، تواريخ العمل
 
----
+## التثبيت والاستخدام
 
+### المتطلبات المسبقة
+- Node.js (v14.0.0 أو أحدث)
+- npm أو yarn
 
----
+### خطوات التثبيت
 
-## ⚡ Getting Started
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/cv-generator.git
-cd cv-generator
-
+1. **نسخ المستودع**
+   ```bash
+   git clone https://github.com/your-username/cv-builder.git
+   cd cv-builder
